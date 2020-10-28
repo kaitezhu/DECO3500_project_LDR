@@ -11,8 +11,10 @@
 * Xuanqiu Qin (https://github.com/XuanqiuQin)
 
 ## Background Research
+* Research: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/Background%20Research
 
 ## User Testings
+* Testing: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/User%20Testing
 
 ## Prototype
 
