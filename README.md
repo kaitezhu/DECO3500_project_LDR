@@ -1,2 +1,6 @@
-# DECO3500_project_LDR
-DECO3500/7350 - Group Project
+# DECO3500 Project: Long Distance Relationship
+
+## Authors
+
+* Yiping Xia (https://github.com/YipingXia-UQ)
+* Yonghao Wu (https://github.com/Land-Loser)
