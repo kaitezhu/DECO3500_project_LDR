@@ -18,8 +18,6 @@
 
 ## Prototype
 
-## Demonstration
-
 ## References
 
 * [1] H. Lim and B. Suh, "Now here or nowhere", Proceedings of the companion publication of the 17th ACM conference on Computer supported cooperative work & social computing - CSCW Companion '14, 2014. DOI:  https://doi.org/10.1145/2556420.2556501
