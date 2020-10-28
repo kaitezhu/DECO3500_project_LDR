@@ -10,13 +10,17 @@
 ## Project Wiki
 * Wiki: https://github.com/kaitezhu/DECO3500_project_LDR/wiki
 
+## Concept Proposal
+* Proposal: https://github.com/kaitezhu/DECO3500_project_LDR/blob/master/Concept%20Proposal.pdf
+
 ## Background Research
 * Research: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/Background%20Research
 
+## Prototype
+
+
 ## User Testings
 * Testing: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/User%20Testing
-
-## Prototype
 
 ## References
 
