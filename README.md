@@ -1,5 +1,8 @@
 # DECO3500 Project: Long Distance Relationship
 
+## Project Wiki
+* Wiki: https://github.com/kaitezhu/DECO3500_project_LDR/wiki
+
 ## Authors
 
 * Yiping Xia (https://github.com/YipingXia-UQ)
