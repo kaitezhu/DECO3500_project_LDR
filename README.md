@@ -18,6 +18,7 @@
 
 ## Final Prototype
 * Prototype: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/Prototype_Third_Iteration
+* Modao interaction: https://modao.cc/app/f2c9348fcbf6fd2bfd94d929637ba1e06e20442b?simulator_type=device&sticky
 
 ## User Testings
 * Testing: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/User%20Testing
