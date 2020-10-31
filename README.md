@@ -1,4 +1,4 @@
-# DECO3500 Project: Long Distance Relationship
+# TakeUrHeart DECO3500 Project
 
 ## Authors
 
