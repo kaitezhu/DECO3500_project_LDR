@@ -16,8 +16,8 @@
 ## Background Research
 * Research: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/Background%20Research
 
-## Prototype
-
+## Final Prototype
+* Prototype: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/Prototype_Third_Iteration
 
 ## User Testings
 * Testing: https://github.com/kaitezhu/DECO3500_project_LDR/tree/master/User%20Testing
